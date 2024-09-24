@@ -1,6 +1,4 @@
-Here’s a sample README file for your project, titled **"Ingredient Weight Estimation Model"**. You can customize it further based on your specific details and preferences.
 
-```markdown
 # Ingredient Weight Estimation Model
 
 ## Overview
@@ -14,7 +12,7 @@ The Ingredient Weight Estimation Model aims to estimate the weight percentages o
 - [Usage](#usage)
 - [Model Evaluation](#model-evaluation)
 - [Future Work](#future-work)
-- [License](#license)
+
 
 ## Features
 - **Data Preprocessing**: Handles missing values and scales numerical features.
