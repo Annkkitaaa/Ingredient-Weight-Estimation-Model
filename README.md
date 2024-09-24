@@ -59,6 +59,11 @@ The model has been evaluated using cross-validation, yielding the following resu
 - **Test Set MSE**: 2.49
 - **R-squared**: 0.99
 
+![download](https://github.com/user-attachments/assets/c7e5813d-8d66-46f2-9920-fbf59ed69e2e)
+
+![download](https://github.com/user-attachments/assets/79c2aa99-5bda-4bc7-bb3a-9aec0d2e8dc0)
+
+
 These metrics indicate strong performance in estimating ingredient weight percentages.
 
 ## Future Work
